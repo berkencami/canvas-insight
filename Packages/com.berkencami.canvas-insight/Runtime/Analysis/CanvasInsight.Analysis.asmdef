@@ -1,0 +1,9 @@
+{
+    "name": "CanvasInsight.Analysis",
+    "rootNamespace": "CanvasInsight.Analysis",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "noEngineReferences": true
+}

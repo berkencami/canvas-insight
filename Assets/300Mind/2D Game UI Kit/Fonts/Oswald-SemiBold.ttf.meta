@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 197aa00286a04c4449aa64092ddff51c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oswald
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 355774
+  packageName: 2D Mobile Game UI Kit
+  packageVersion: 1.0
+  assetPath: Assets/300Mind/2D Game UI Kit/Fonts/Oswald-SemiBold.ttf
+  uploadId: 847798

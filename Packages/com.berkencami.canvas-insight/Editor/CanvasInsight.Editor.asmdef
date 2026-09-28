@@ -1,0 +1,12 @@
+{
+    "name": "CanvasInsight.Editor",
+    "rootNamespace": "CanvasInsight.Editor",
+    "references": [
+        "CanvasInsight.Analysis",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

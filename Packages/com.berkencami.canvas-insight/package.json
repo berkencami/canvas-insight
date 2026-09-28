@@ -1,0 +1,30 @@
+{
+  "name": "com.berkencami.canvas-insight",
+  "version": "0.1.0",
+  "displayName": "Canvas Insight",
+  "description": "Explains uGUI draw calls: shows how each canvas is batched, why every batch break happens, and which element to move to fix it.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "ugui",
+    "ui",
+    "performance",
+    "batching",
+    "draw calls",
+    "profiling"
+  ],
+  "author": {
+    "name": "berkencami",
+    "url": "https://github.com/berkencami"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berkencami/canvas-insight.git"
+  },
+  "documentationUrl": "https://github.com/berkencami/canvas-insight#readme",
+  "changelogUrl": "https://github.com/berkencami/canvas-insight/blob/main/Packages/com.berkencami.canvas-insight/CHANGELOG.md",
+  "licensesUrl": "https://github.com/berkencami/canvas-insight/blob/main/LICENSE",
+  "license": "MIT"
+}
